@@ -1,1 +1,34 @@
 <!doctype html>
+<html>
+	<head>
+		<title>Ubermelon Order Form</title>
+	</head>
+	<body>
+		<h1>Order!</h1>
+		<h3>Prices</h3>
+	</body>
+	<table>
+		<tr>
+			<th>Melon Name</th>
+			<th>Price per lb</th>
+		</tr>
+		<tr>
+			<th>Watermelon</th>
+			<th>$1.59</th>
+		</tr>
+		<tr>
+			<th>Honeydew</th>
+			<th>$0.99</th>
+		</tr>
+		<tr>
+			<th>Canteloupe</th>
+			<th>$1.29</th>
+		</tr>
+		<tr>
+			<th>Crenshaw</th>
+			<th>$2.19</th>
+		</tr>
+		<tr>
+			<th>Canary</th>
+			<th>$11.99</th>
+		</tr>
